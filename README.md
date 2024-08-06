@@ -1,6 +1,6 @@
 # REST-springboot
-SPring boot introduction.
-##Activity1
+SPring boot introduction.<br>
+<b>##Activity1</b>
 To Create an endpoint that greets “Hello Shipturtle, Hope you are doing well !”
 <img width="1440" alt="Screenshot 2024-08-06 at 17 12 58" src="https://github.com/user-attachments/assets/7450083b-5097-4dbd-8c83-f15b7e235ea6">
 
